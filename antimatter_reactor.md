@@ -1,9 +1,9 @@
 # Implementing antimatter reactors by the standard Star Trek supplies.
 ## Concept:
   - Deuterium (matter) and Antideuterium (antimatter) are mixed in a combustionchamber  in a controlled reaction (Matter- antimatter reaction assembly (M/ARA)) and produce plasma which is used as the  power source of the ship.
-  - the reaction is controlled through use of a dilitihium  reactor
+  - the reaction is controlled through use of a dilitihium crystal
   - more matter than antimatter is used in the reaction
-  - Deuterium and antimatter have to be stored separately to avoid spontaneous, destructive reaction
+  - Deuterium and antimatter have to be stored separately to avoid spontaneous, destructive chainreaction.
   - dilithium is (canonwise) a rare material only found sparesly throughout the galaxy. it can not be artificially created.
   - the dilithium crystal is used to prevent uncontrolled chain M/ARA, similar to a controlrod in a nuclear reactor. 
   

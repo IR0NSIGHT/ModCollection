@@ -35,3 +35,12 @@ The M/ARA would happen inside this core (immersion wise) and the surrounding rea
   - warpcore
   https://memory-alpha.fandom.com/wiki/Warp_core
   
+# Implementation:
+Requirements: 
+- reactor can be connected to a storage
+- reactor eats up resources in storage
+- reactor will loose power if not fed with resources
+Nice to have:
+- retextured cargo + cargospace block that become the fuel tank (non transparent cargospace)
+- effects of spilling fuel when fueltank is damaged
+  
